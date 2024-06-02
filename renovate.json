@@ -1,0 +1,6 @@
+{
+  "packageRules": [{
+    "matchDepNames": ["lodash"],
+    "sourceUrl": "https://github.com/renovatebot/renovate"
+  }]
+}
